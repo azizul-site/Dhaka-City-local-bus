@@ -103,3 +103,17 @@ button {
     height: 120vh;
     position: relative;
     } */
+
+  /* ================================*/
+   /*COPY-RIGHT SECTION*/
+/* ================================*/
+.copyright-section{
+    background:#3c3535;
+    text-align: center;
+    padding: 1rem;
+}
+
+.p-copyright{
+    font-size: 2rem;
+    color:#dccece;
+}
